@@ -1,0 +1,10 @@
+[
+  {
+    "package": "EloChoice",
+    "oncran": true
+  },
+  {
+    "package": "EloRating",
+    "oncran": true
+  }
+]
