@@ -13,3 +13,8 @@
 	url = https://github.com/gobbios/elorating
 	shallow = true
 	registered = true
+[submodule "EloSteepness"]
+	path = EloSteepness
+	url = https://github.com/gobbios/elosteepness
+	shallow = true
+	registered = true
