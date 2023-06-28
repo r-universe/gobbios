@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "EloChoice"]
 	path = EloChoice
 	url = https://github.com/gobbios/elochoice
-	shallow = true
-	registered = true
 [submodule "EloRating"]
 	path = EloRating
 	url = https://github.com/gobbios/elorating
-	shallow = true
-	registered = true
 [submodule "EloSteepness"]
 	path = EloSteepness
 	url = https://github.com/gobbios/elosteepness
-	shallow = true
-	registered = true
